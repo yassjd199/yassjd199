@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/yassine-jedai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://codeforces.com/profile/yassjd199" target="blank"><img align="center" src="https://www.google.com/imgres?q=codeforces%20logo&imgurl=https%3A%2F%2Fart.npanuhin.me%2FSVG%2FCodeforces%2FCodeforces.colored.svg&imgrefurl=https%3A%2F%2Fart.npanuhin.me%2FSVG%2FCodeforces%2F&docid=2Qil-Zzw8roTuM&tbnid=x5xA5qOGgR-k4M&vet=12ahUKEwjOybed0NqFAxW9TaQEHTdID0YQM3oECBUQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjOybed0NqFAxW9TaQEHTdID0YQM3oECBUQAA"  height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yassjd199" target="blank"><img align="center" src="https://www.google.com/imgres?q=codeforces%20logo&imgurl=https%3A%2F%2Fart.npanuhin.me%2FSVG%2FCodeforces%2FCodeforces.colored.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
