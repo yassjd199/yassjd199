@@ -4,9 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yassine-jedai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://codeforces.com/profile/yassjd199" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69nROt8zXaN1Fp74A9U_gGVZQL_UnnQh8XLx05xsiqw&s"  height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/yassjd199" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69nROt8zXaN1Fp74A9U_gGVZQL_UnnQh8XLx05xsiqw&s"  height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
