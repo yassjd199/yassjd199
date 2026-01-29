@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yassine Jedai </h1>
-<h3 align="center">An enthusiastic software engineering student from Tunisia.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
